@@ -469,3 +469,4 @@ C:\Users\johns\source\repos\SaucedemoTests\obj\Debug\net9.0\refint\SaucedemoTest
 C:\Users\johns\source\repos\SaucedemoTests\obj\Debug\net9.0\SaucedemoTests.pdb
 C:\Users\johns\source\repos\SaucedemoTests\obj\Debug\net9.0\SaucedemoTests.genruntimeconfig.cache
 C:\Users\johns\source\repos\SaucedemoTests\obj\Debug\net9.0\ref\SaucedemoTests.dll
+C:\Users\johns\source\repos\SaucedemoTests\obj\Debug\net9.0\SaucedemoTests.sourcelink.json
