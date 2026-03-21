@@ -16,6 +16,12 @@ public class LoginTests : TestBase
     }
 
     [Test]
+    public async Task PageTitle_SwagLabs()
+    {
+        await Expect(Page).ToHaveTitleAsync("Swag Labs");
+    }
+    
+    [Test]
     public async Task ValidLogin_NavigatesToInventory()
     {
         var user = Settings.Users["StandardUser"];
